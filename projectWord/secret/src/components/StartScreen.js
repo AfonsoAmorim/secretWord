@@ -5,7 +5,7 @@ const StartScreen = () =>{
         <div className="start">
             <h1>Secret Word 007</h1>
             <p>Clique no botão para começar.</p>
-            <button>Começar o jogo</button>
+            <button>Iniciar</button>
         </div>
     )
 }
